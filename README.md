@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=%20render&fontSize=90)
 
-<div align=center>
+
 [![JS](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/squirMM)
 
 <!--
