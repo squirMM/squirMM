@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![JS](https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white)](github.com/squirMM)
 
 <!--
 **squirMM/squirMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
