@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=%20Sumin&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=%20SooMin&fontSize=80)
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 
