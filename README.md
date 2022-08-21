@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=%20&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=%20&Hi!fontSize=80)
 
 <h2 align="left"> 👩‍💻 Info </h2>
 <p align="left"> 안녕하세요! 주니어 개발자 전수민(squirMM)입니다.<br><br><br> </p>
@@ -17,7 +17,7 @@
 
 <h2 align="left">🛠 Tech Stack </h2>
 
-<p align="left"> Techs that I've used at least once </p>
+<p align="left"> "Techs that I've used at least once" </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
