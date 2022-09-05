@@ -55,5 +55,3 @@
   <a href="https://solved.ac/jsm6616"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsm6616"/></a>
   <br/>
 </p>
-
-
