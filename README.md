@@ -48,7 +48,6 @@
 
 <p align="left">
   <a href="https://hits.seeyoufarm.com"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsquirMM&count_bg=%2391DB59&title_bg=%23555555&icon=&icon=github.svg&icon_color=%23CFD1CD&title=hits&edge_flat=true/></a>&nbsp
-  
   <a href="jsm6616@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=Gmail&logo=Gmail&logoColor=white"/</a>&nbsp
   <a href="jsm6616@naver.com" target="_blank"><img src="https://img.shields.io/badge/NaverMail-03C75A?style=Gmail&logo=Gmail&logoColor=white"/</a>&nbsp
   <a href="https://squirmm.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=Bitdefender&logo=Bitdefender&logoColor=white"/</a>&nbsp
