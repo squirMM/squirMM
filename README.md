@@ -12,6 +12,9 @@
    <li>
     한이음 프로젝트 똑쇼 안드로이드 개발 ( 2021.4 ~ 2021.10 )
   </li>
+  <li>
+    신촌 지역 창업 연합 동아리 CEOS 16기 BE 파트 ( 2022.9 ~ )
+  </li>
   <br>
 </ui>
 
@@ -44,10 +47,13 @@
 <h2 align="left">🐣 Mine </h2>
 
 <p align="left">
-  <a href="https://solved.ac/jsm6616"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsm6616"/></a>&nbsp
-  <br/>
-  <a href="https://hits.seeyoufarm.com"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsquirMM&count_bg=%2391DB59&title_bg=%23555555&icon=&icon=github.svg&icon_color=%23CFD1CD&title=hits&edge_flat=true/></a>
+  <a href="https://hits.seeyoufarm.com"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsquirMM&count_bg=%2391DB59&title_bg=%23555555&icon=&icon=github.svg&icon_color=%23CFD1CD&title=hits&edge_flat=true/></a>&nbsp
+  <a href="jsm6616@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=Gmail&logo=Gmail&logoColor=white"/</a>&nbsp
+  <a href="jsm6616@naver.com" target="_blank"><img src="https://img.shields.io/badge/NaverMail-03C75A?style=Gmail&logo=Gmail&logoColor=white"/</a>&nbsp
+  <a href="https://squirmm.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=Bitdefender&logo=Bitdefender&logoColor=white"/</a>&nbsp
   
+  <a href="https://solved.ac/jsm6616"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsm6616"/></a>
+  <br/>
 </p>
 
 
