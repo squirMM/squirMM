@@ -10,13 +10,13 @@
     홍익대학교 컴퓨터공학 재학 ( 2018.3~ )
   </li>
    <li>
-    한이음 프로젝트 [똑쇼](https://github.com/squirMM/2021_Hanium) 안드로이드 개발 ( 2021.4 ~ 2021.10 )
+    한이음 프로젝트 <a href="https://github.com/squirMM/2021_Hanium">똑쇼</a> 안드로이드 개발 ( 2021.4 ~ 2021.10 )
   </li>
   <li>
-    신촌 지역 창업 연합 동아리 CEOS 16기 [BE](https://github.com/squirMM/django_rest_framework_16th) 파트 ( 2022.9 ~ )
+    신촌 지역 창업 연합 동아리  <a href="https://github.com/CEOS-Developers">CEOS</a> 16기 <a href="https://github.com/squirMM/django_rest_framework_16th">BE</a> 파트 ( 2022.9 ~ )
   </li>
   <li>
-    대학생 팀프로젝트 관련 웹 Teample BE 파트 ( 2022.12 ~ )
+    대학생 팀프로젝트 관련 서비스 팀 Teample BE 파트 ( 2022.12 ~ )
   </li>
   <br>
 </ui>
