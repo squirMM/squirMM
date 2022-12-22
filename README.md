@@ -7,7 +7,7 @@
 <h2 align="left">🗓 History </h2>
 <ui>
   <li>
-    홍익대학교 컴퓨터공학 재학 ( 2018.3~ )
+    홍익대학교 컴퓨터공학 졸업 ( 2018.3~ 2023.2 )
   </li>
    <li>
     한이음 프로젝트 <a href="https://github.com/squirMM/2021_Hanium">똑쇼</a> 안드로이드 개발 ( 2021.4 ~ 2021.10 )
