@@ -13,7 +13,7 @@
     한이음 프로젝트 <a href="https://github.com/squirMM/2021_Hanium">똑쇼</a> 안드로이드 개발 ( 2021.4 ~ 2021.10 )
   </li>
   <li>
-    신촌 지역 창업 연합 동아리  <a href="https://github.com/CEOS-Developers">CEOS</a> 16기 <a href="https://github.com/squirMM/django_rest_framework_16th">BE</a> 파트 ( 2022.9 ~ )
+    신촌 지역 창업 연합 동아리  <a href="https://github.com/CEOS-Developers">CEOS</a> 16기 <a href="https://github.com/squirMM/django_rest_framework_16th">BE</a> 파트 ( 2022.9 ~ 2022.12 )
   </li>
   <li>
     대학생 팀프로젝트 관련 서비스 팀 <a href="https://github.com/teampuls/Teamplus-Backend">Teample BE 파트</a> ( 2022.12 ~ )
@@ -50,8 +50,8 @@
 
 <p align="left">
   <a href="https://hits.seeyoufarm.com"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsquirMM&count_bg=%2391DB59&title_bg=%23555555&icon=&icon=github.svg&icon_color=%23CFD1CD&title=hits&edge_flat=true/></a>&nbsp
-  <a href="jsm6616@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=Gmail&logo=Gmail&logoColor=white"/</a>&nbsp
-  <a href="jsm6616@naver.com" target="_blank"><img src="https://img.shields.io/badge/NaverMail-03C75A?style=Gmail&logo=Gmail&logoColor=white"/</a>&nbsp
+  <a href="mailto:jsm6616@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=Gmail&logo=Gmail&logoColor=white&link=mailto:jsm6616@gmail.com"/</a>&nbsp
+  <a href="mailto:jsm6616@naver.com" target="_blank"><img src="https://img.shields.io/badge/NaverMail-03C75A?style=Gmail&logo=Gmail&logoColor=white&link=mailto:jsm6616@naver.com"/</a>&nbsp
   <a href="https://squirmm.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=Bitdefender&logo=Bitdefender&logoColor=white"/</a>&nbsp
   
   <a href="https://solved.ac/jsm6616"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsm6616"/></a>
