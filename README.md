@@ -13,6 +13,9 @@
     한이음 프로젝트 <a href="https://github.com/squirMM/2021_Hanium">똑쇼</a> 안드로이드 개발 ( 2021.4 ~ 2021.10 )
   </li>
   <li>
+    홍익대학교 졸업프로젝트 <a href="https://github.com/u-blinked/ublinked_SwiftUI">인공지능 ios앱</a> 개발( 2022.3 ~ 2022.11 )
+  </li>
+  <li>
     신촌 지역 창업 연합 동아리  <a href="https://github.com/CEOS-Developers">CEOS</a> 16기 <a href="https://github.com/squirMM/django_rest_framework_16th">BE</a> 파트 ( 2022.9 ~ 2022.12 )
   </li>
   <li>
