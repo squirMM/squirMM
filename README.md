@@ -19,7 +19,7 @@
     신촌 지역 창업 연합 동아리  <a href="https://github.com/CEOS-Developers">CEOS</a> 16기 <a href="https://github.com/squirMM/django_rest_framework_16th">BE</a> 파트 ( 2022.9 ~ 2022.12 )
   </li>
   <li>
-    대학생 팀프로젝트 관련 서비스 팀 <a href="https://github.com/teampuls/Teamplus-Backend">Teample BE 파트</a> ( 2022.12 ~ )
+    대학생 팀프로젝트 관련 서비스 팀 <a href="https://github.com/teampuls/Teamplus-Backend">Teample BE 파트</a>, <a href="https://github.com/teampple/Teampple_Backend"> 백엔드 서버 배포 </a> 담당 ( 2022.12 ~ )
   </li>
   <br>
 </ui>
