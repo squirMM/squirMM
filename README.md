@@ -27,36 +27,46 @@
 <h2 align="left">🛠 Tech Stack </h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+   <br>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Android&logoColor=black"/>
   <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JPA-8A8A8A?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Amazon AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-8A8A8A?style=flat-square&logo=JPA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/queryDsl-000000?style=flat-square&logo=JPA&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dj_rest_auth-00205B?style=flat-square&logoColor=white"/>
   <br>
-  <a href="https://github.com/squirMM" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=GitHub&logo=GitHub&logoColor=white"/
-  </a>&nbsp 
-  <img src="https://img.shields.io/badge/Git-F05032?style=Git&logo=Git&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" />
   <br><br>
 </p>
 
 
-<h2 align="left">🐣 Mine </h2>
+<h2 align="left">🐣 Contact </h2>
 
 <p align="left">
   <a href="https://hits.seeyoufarm.com"><img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsquirMM&count_bg=%2391DB59&title_bg=%23555555&icon=&icon=github.svg&icon_color=%23CFD1CD&title=hits&edge_flat=true/></a>&nbsp
   <a href="mailto:jsm6616@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=Gmail&logo=Gmail&logoColor=white&link=mailto:jsm6616@gmail.com"/</a>&nbsp
   <a href="mailto:jsm6616@naver.com" target="_blank"><img src="https://img.shields.io/badge/NaverMail-03C75A?style=Gmail&logo=Gmail&logoColor=white&link=mailto:jsm6616@naver.com"/</a>&nbsp
   <a href="https://squirmm.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=Bitdefender&logo=Bitdefender&logoColor=white"/</a>&nbsp
-  
+  <br><br>
+</p>
+
+<p align="left">
+<h2 align="left">🏅 Solved.ac </h2>
   <a href="https://solved.ac/jsm6616"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsm6616"/></a>
   <br/>
 </p>
