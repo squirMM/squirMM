@@ -71,6 +71,6 @@
 
 <p align="left">
 <h2 align="left">🏅 Solved.ac </h2>
-  <a href="https://solved.ac/jsm6616"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jsm6616"/></a>
+  <a href="https://solved.ac/squirmm"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=squirmm"/></a>
   <br/>
 </p>
