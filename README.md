@@ -3,8 +3,8 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsquirMM&count_bg=%2391DB59&title_bg=%23555555&icon=&icon=github.svg&icon_color=%23CFD1CD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <h2 align="left"> 👩‍💻 Info </h2>
-<p align="left"> 안녕하세요! 주니어 개발자 전수민(squirMM)입니다.<br><br><br> </p>
-
+<p align="left"> 안녕하세요! 주니어 개발자 전수민(squirMM)입니다.<br></br>
+</p>
 
 <h2 align="left">🗓 History </h2>
 <ui>
@@ -25,7 +25,7 @@
   </li>
   <br>
 </ui>
-
+ <a href="https://www.notion.so/516333ad14244f86b3d8b7495c55cb90">📑 노션포트폴리오_바로가기</a><br><br> 
 <h2 align="left">🛠 Tech Stack </h2>
 
 <p align="left">
