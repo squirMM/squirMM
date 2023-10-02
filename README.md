@@ -3,7 +3,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsquirMM&count_bg=%2391DB59&title_bg=%23555555&icon=&icon=github.svg&icon_color=%23CFD1CD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <h2 align="left"> 👩‍💻 Info </h2>
-<p align="left"> 안녕하세요! 주니어 개발자 전수민(squirMM)입니다.<br></br>
+<p align="left"> 안녕하세요👋🏻 개발자 전수민(squirMM)입니다.<br></br>
 </p>
 
 <h2 align="left">🗓 History </h2>
